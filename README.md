@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m Nikesh Rajbhar<br>💻 Aspiring Web Developer<br>🎓 Recent Graduate with a degree in Computer Science<br>🌐 Passionate about creating user-friendly and responsive websites<br>🛠️ Skilled in HTML, CSS, Scss , Bootstrap and JavaScript<br>Es6 , Typescript , React.js Redux and Redux Toolkit<br>📈 Eager to Learn and adapt to new technologies<br>🤝 Team Player with excellent collaboration skills<br>🔍 Detail-Oriented with a focus on clean code and best practices<br>🚀 Motivated to turn ideas into reality through coding<br>✨ Ready to Start my journey in the web development world!
+👋 Hello! I’m Nikesh Rajbhar<br>💻 Aspiring Web Developer<br>🎓 Recent Graduate with a degree in B-com<br>🌐 Passionate about creating user-friendly and responsive websites<br>🛠️ Skilled in HTML, CSS, Scss , Bootstrap and JavaScript<br>Es6 , Typescript , React.js Redux and Redux Toolkit<br>📈 Eager to Learn and adapt to new technologies<br>🤝 Team Player with excellent collaboration skills<br>🔍 Detail-Oriented with a focus on clean code and best practices<br>🚀 Motivated to turn ideas into reality through coding<br>✨ Ready to Start my journey in the web development world!
 
 
 ## 🌐 Socials:
