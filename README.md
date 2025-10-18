@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m Nikesh Rajbhar<br>👨‍💻 MERN Stack Developer<br>🌟 Passionate about building robust full-stack applications using MongoDB, Express.js, React, and Node.js.<br>💡 Turning ideas into scalable solutions with clean code and efficient designs.<br>🚀 Currently exploring advanced React features.<br>✨ Ready to Start my journey in the web development world!<br>📬 Let's connect and collaborate:nikesh21soni@gmail.com <br><br>
+👋 Hello! I’m Nikesh Rajbhar<br>👨‍💻 Full Stack Developer<br>🌟 Passionate about building robust full-stack applications using MongoDB, Express.js, React, and Node.js.<br>💡 Turning ideas into scalable solutions with clean code and efficient designs.<br>🚀 Currently exploring advanced React features.<br>✨ Ready to Start my journey in the web development world!<br>📬 Let's connect and collaborate:nikesh21soni@gmail.com <br><br>
 
 
 # 💻 Tech Stack:
